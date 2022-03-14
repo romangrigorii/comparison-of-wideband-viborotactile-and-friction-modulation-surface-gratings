@@ -1,0 +1,1 @@
+vccs = (dxdtR - dxdtL)/.055.*FP + dxdtL;
